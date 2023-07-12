@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
   name: "swift-snapshot-testing",
   platforms: [
-    .iOS(.v11),
+    .iOS(.v13),
     .macOS(.v10_10),
     .tvOS(.v10),
   ],
